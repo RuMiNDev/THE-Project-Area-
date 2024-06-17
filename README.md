@@ -1,2 +1,2 @@
 # THE-Project-Area
-Project Area On :sunglasses:
+Project Area On `:sunglasses:`
