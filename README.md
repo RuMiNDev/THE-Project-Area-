@@ -3,5 +3,5 @@
 
 [ CND ]
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RuMiNDev/THE-Project-Area-/main/CND/NewestMain.lua)", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RuMiNDev/THE-Project-Area-/main/CND/NewestMain.lua", true))();
 ```
